@@ -4,18 +4,20 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Yuri Rainer Bedran
 * Gustavo Pessoa Firmino Duarte
-* Henrique Moura de Sousa Belo 
-* Raphael Denner de Oliveira
-* João Vitor Gonzaga Jota
+* Henrique Moura de Sousa Belo
+* João Vitor Gonzaga Jota 
 * Matheus
+* Raphael Denner de Oliveira
+* Yuri Rainer Bedran
 
 ## Professores responsáveis
 
-* Romel Vieira Carneiro
+
 * Cleiton Silva Tavares
 * Luciana Mara Freitas Diniz
+* Romel Vieira Carneiro
+
 
 ## Instruções de utilização
 
