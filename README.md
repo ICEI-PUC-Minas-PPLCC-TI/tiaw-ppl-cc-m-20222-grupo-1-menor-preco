@@ -8,11 +8,14 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Gustavo Pessoa Firmino Duarte
 * Henrique Moura de Sousa Belo 
 * Raphael Denner de Oliveira
+* João Vitor Gonzaga Jota
+* Matheus
 
 ## Professores responsáveis
 
 * Romel Vieira Carneiro
-* Nome completo do professor 2
+* Cleiton Silva Tavares
+* Luciana Mara Freitas Diniz
 
 ## Instruções de utilização
 
