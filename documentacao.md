@@ -59,26 +59,13 @@
 
 
 # Introdução
+Encontrar melhores preços de produtos é uma necessidade que abrange toda a sociedade, visto que poupar dinheiro é uma forma efetiva para alcançar o maior acúmulo de capital e obter uma maior folga no seu orçamento relativo a sua renda, podendo assim ter uma maior qualidade de vida.
 
-## Problema
+Os comércios em geral, possuem uma tabela de preço similar, isto quer dizer que a diferença de preços de comércio para comércio, referentes a um mesmo produto, geralmente não vai ser exorbitante. Porém, quando se observa a somatória dos valores de uma compra do mês para uma residência, por exemplo, a pequena diferença entre os preços dos estabelecimentos, pode se tornar uma grande diferença no valor total da compra.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Visto isso, faz-se útil a utilização de algum tipo de serviço que faça essa comparação antes mesmo de acontecer a locomoção física até o local de compra, ou até mesmo por uma compra online, já que ambas as formas de compra gastam o dinheiro do consumidor, ou com o pagamento da taxa de frete ou com a gasolina que abastece o carro, o privilégio de ter um estabelecimento como um supermercado que se possa acessar a pé é para poucas pessoas.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A proposta do nosso site é justamente essa, facilitar ao máximo a vida dos usuários, mostrando onde estão os produtos mais baratos e a sua proximidade, ao mesmo tempo, oferecer grande ajuda as empresas que postarão seus produtos em nosso site .
 
 ## Objetivos
 
