@@ -1,11 +1,11 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
+# Documentação
+  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+# Projeto: Achar o menor preço de produtos. 
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Ciências da Computação ......
 
 ## Participantes
 
