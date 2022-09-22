@@ -67,6 +67,8 @@ Visto isso, faz-se útil a utilização de algum tipo de serviço que faça essa
 
 A proposta do nosso site é justamente essa, facilitar ao máximo a vida dos usuários, mostrando onde estão os produtos mais baratos e a sua proximidade, ao mesmo tempo, oferecer grande ajuda as empresas que postarão seus produtos em nosso site .
 
+## Problema
+Conforme dito na introdução, o problema principal a ser enfrentado neste projeto é atender as necessidades dos usuários, dando a possibilidade de comparar preços de produtos desejados. Dito isso, o principal obstáculo é encontrar uma forma de fazer com que os usuários possam encontrar seus produtos desejados com maior comodidade e conforto apenas no alcance de alguns cliques.
 ## Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
