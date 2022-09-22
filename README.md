@@ -26,7 +26,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 # Estrutura do documento
 
 1. [Contexto](Contexto)
-2. [Especificações do Projeto]()
+2. [Especificações do Projeto](Especificações do projeto)
 3. [Projeto da Interface](3-Interface.md)
 4. [Gestão de Configuração](4-Gestão-Configuração.md)
 5. [Gerenciamento de Projeto](5-Gerenciamento-Projeto.md)
