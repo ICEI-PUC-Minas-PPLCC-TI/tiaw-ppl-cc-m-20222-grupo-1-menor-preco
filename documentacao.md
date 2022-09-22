@@ -70,52 +70,21 @@ A proposta do nosso site é justamente essa, facilitar ao máximo a vida dos usu
 ## Problema
 Conforme dito na introdução, o problema principal a ser enfrentado neste projeto é atender as necessidades dos usuários, dando a possibilidade de comparar preços de produtos desejados. Dito isso, o principal obstáculo é encontrar uma forma de fazer com que os usuários possam encontrar seus produtos desejados com maior comodidade e conforto apenas no alcance de alguns cliques.
 ## Objetivos
+O objetivo geral deste trabalho é criar uma plataforma onde os usuário podem se cadastrar como consumidores que irão buscar e comparar preços de produtos desejados dentro de um raio de alcance da sua localização atual, ou então como empresas donas de lojas que podem cadastrar seus produtos para que fique disponíveis para todos os usuários consumidores dentro de um determinado raio de alcance, também usando como base sua geolocalização.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Como objetivos específicos, podemos ressaltar:
+Fornecer funcionalidades de cadastro de produtos;
+Fornecer funcionalidades de comparação de preços e busca de produtos através de filtros de interesses;
+Permitir a navegação de um mapa a fim de conhecer a distância do usuário até a loja mais próxima com o produto disponível;
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Atualmente o Brasil se encontra em um período de crise, por isso, economizar em todos os aspectos possíveis é essencial 
 
 ## Público-Alvo
+Para o público alvo deste projeto, existem dois tipos de público a serem alcançados através da plataforma, o consumidor e o vendedor. O consumidor é a pessoa que deseja encontrar produtos dentro de seu bairro ou cidade sem sair de casa e comparar preços a fim de ter mais comodidade e conforto na hora da compra ou orçamento. Já o vendedor é o dono de loja ou representante de empresa que deseja disponibilizar suas mercadorias na plataforma para alcançar um número maior de clientes dentro de um raio de alcance de uma de suas instalações de lojas.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desta forma, é possível concluir que o público alvo são pessoas em seu ambiente doméstico procurando algum bem-material com o menor preço e maior qualidade perto de sua casa ou empreendedores que querem expandir seus negócios e conseguir mais clientes a fim de melhorar suas vendas.
  
 # Especificações do Projeto
 
