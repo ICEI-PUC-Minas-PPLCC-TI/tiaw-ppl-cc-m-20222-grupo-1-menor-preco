@@ -24,9 +24,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 # Estrutura do Documento
 
-- [Informações do Projeto](#informações-do-projeto)
-  - [Participantes](#participantes)
-- [Estrutura do Documento](#estrutura-do-documento)
+
 - [Introdução](#introdução)
   - [Problema](#problema)
   - [Objetivos](#objetivos)
