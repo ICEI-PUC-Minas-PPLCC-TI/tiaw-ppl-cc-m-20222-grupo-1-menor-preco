@@ -5,17 +5,23 @@
 
 `CURSO` 
 
-......  Ciências da Computação ......
+  Ciências da Computação - Pontifícia universidade católica de Minas Gerais
 
-## Participantes
+## Alunos integrantes da equipe
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* Gustavo Pessoa Firmino Duarte
+* Henrique Moura de Sousa Belo
+* João Vitor Gonzaga Jota 
+* Matheus
+* Raphael Denner de Oliveira
+* Yuri Rainer Bedran
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+## Professores responsáveis
+
+
+* Cleiton Silva Tavares
+* Luciana Mara Freitas Diniz
+* Romel Vieira Carneiro
 
 # Estrutura do Documento
 
