@@ -88,7 +88,12 @@ Desta forma, é possível concluir que o público alvo são pessoas em seu ambie
  
 # Especificações do Projeto
 
-O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtidos na disciplina de Desenvolvimento de interfaces web, a princípio o site deverá ser capaz de permitir o cadastro de produtos pelas empresas interessadas tal qual
+O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtidos na disciplina de Desenvolvimento de interfaces web, a princípio o site deverá ser capaz de permitir o cadastro de produtos pelas empresas interessadas tal qual permitir que um usuário visualize os produtos com melhor custo-benefício. O site deverá ter:
+-Uma tela de cadastro
+-Uma tela de login
+-Uma tela de usuário(pessoa)
+-Uma tela de usuário(empresa)
+-Uma tela de produtos permitindo filtrar
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
