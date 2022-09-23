@@ -88,20 +88,18 @@ Desta forma, é possível concluir que o público alvo são pessoas em seu ambie
  
 # Especificações do Projeto
 
-O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtidos na disciplina de Desenvolvimento de interfaces web, a princípio o site deverá ser capaz de permitir o cadastro de produtos pelas empresas interessadas tal qual permitir que um usuário visualize os produtos com melhor custo-benefício. O site deverá ter:
--Uma tela de cadastro
--Uma tela de login
--Uma tela de usuário(pessoa)
--Uma tela de usuário(empresa)
--Uma tela de produtos permitindo filtrar
+O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtidos na disciplina de Desenvolvimento de interfaces web, utilizando HTML, CSS e javascript,  a princípio o site deverá ser capaz de permitir o cadastro de produtos pelas empresas interessadas tal qual permitir que um usuário visualize os produtos com melhor custo-benefício. O site deverá ter:
+* Uma tela de cadastro
+* Uma tela de login
+* Uma tela de usuário(pessoa)
+* Uma tela de usuário(empresa)
+* Uma tela de produtos permitindo filtrá-los
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
