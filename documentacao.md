@@ -212,23 +212,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A princípio o grupo teve seu primeiro encontro em sala de aula, foi criado o primeiro esboço do que seria o foco para a aplicação: focar em produos alimentícios de grandes e pequenos negócios. Após definir o eixo temático se iniciou o processo de design thinking desenvolvendo a Matriz CSD, o Mapa de Priorização e o Mapa de Stakeholders,após isso foram elaboradas perguntas que foram perguntadas a familiares dos membros do grupo. O próximo passo foi o desenvolvimento do  Diagrama de Personas a partir das entrevistas, até então todos esses processos estavam sendo desenvolvidos de forma analógica, por meio das folhas fornecidas pelos orientadores da disciplina mas após essa etapa, a plataforma MIRO começou a ser utilizada para digitalizar esses processos tal qual adicionar o Mural de Possibilidades e o Mapa de Empatia.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Com um maior entendimento do eixo temático do projeto foi desenvolvido um esboço do que virá a se tornar a aplicação por meio da montagem do wireframe utilizando a plataforma Figma incluindo um protótipo interativo. A próxima etapa foi criar a documentação, que o grupo criou utilizando a plataforma colaborativa Google Docs.Em seguida todos esses documentos foram hospedados no Github, adaptando a documentação para o formato Markdown. A última etapa foi compilar todo o conteúdo produzido em uma apresentação, que irá ocorrer no dia 27/09.
+
+É importante ressaltar que a metodologia Scrum foi implementada no projeto a partir da divisão de tarefas utilizando o Trello, e nas reuniões diárias que ocorreram na parte da noite via Discord.
+
+
 
 ## Divisão de Papéis
 
