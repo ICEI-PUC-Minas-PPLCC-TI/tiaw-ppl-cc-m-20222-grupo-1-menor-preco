@@ -127,6 +127,7 @@ O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtido
 
 ## Histórias de Usuários
 
+!(imagens/HDU.png)
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
