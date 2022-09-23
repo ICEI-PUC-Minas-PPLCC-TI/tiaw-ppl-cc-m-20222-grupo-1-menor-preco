@@ -98,7 +98,9 @@ O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtido
 
 
 ## Personas e Mapas de Empatia
-
+![](./imagens/persona1.png)
+![](./imagens/persona2.png)
+![](./imagens/persona3.png)
 
 
 
