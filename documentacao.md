@@ -247,12 +247,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVPZ375T8=/ | 
-|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-grupo-monitorizacao-de-diabetes | 
-|Hospedagem do site | Heroku |  https://dashboard.heroku.com/apps/grupo12tiaw | 
-|Wireframe e user flow | draw.io| https://app.diagrams.net/ |
-|Hospedagem temporária de documentos | Google Drive | https://drive.google.com/drive/folders/1tkVLEsdkhkbKqFvtycgNOotBzROSNDCn?usp=sharing |
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-grupo-1-menor-preco | 
+|Wireframe e user flow | Figma | https://www.figma.com/file/cdVetI5SuPrJpdZhbRGA62/Low-Fidelity-Wireframes-(Community)?node-id=203%3A195 |
+|Desenvolvimento inicial da documentação | Google Docs |  https://docs.google.com/document/d/1pcj7V9U0ncFyhb01YhRmekfpDjDIzOqOC8AjDKhWCyw/edit# |
 |Editor de código | Visual Studio Code | https://code.visualstudio.com |
-|Gerenciamento de projeto | Trello | https://trello.com |
+|Gerenciamento de projeto | Trello |  https://trello.com |
 
 ## Controle de Versão
 
