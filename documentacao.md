@@ -97,13 +97,12 @@ O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtido
 
 
 
-## Personas 
+## Personas e Mapas de Empatia
 ![](./imagens/persona1.png)
 ![](./imagens/persona2.png)
 ![](./imagens/persona3.png)
-## Mapas de Empatia
-![](./imagens/ME.png)
-![](./imagens/ME2.png)
+
+
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
@@ -227,11 +226,11 @@ Com um maior entendimento do eixo temático do projeto foi desenvolvido um esbo�
 
 | Nome                            | Função                      |
 |---------------------------------|-----------------------------|
-|Gustavo Pessoa Firmino Duarte    |Documentação, desenvolvimento| 
-|Henrique Moura de Sousa Belo     |Documentação, adaptação para o github| 
-|João Vitor Gonzaga Jota          |Documentação, desenvolvimento| 
-|Raphael Denner de Oliveira       |Documentação,criação dos wireframes utilizando o figma|
-|Yuri Rainer Bedran               |Documentação, desenvolvimento| 
+|Gustavo Pessoa Firmino Duarte    |Documentação, desenvolvimento, criação do powerpoint| 
+|Henrique Moura de Sousa Belo     |Documentação, desenvolvimento, adaptação para o github| 
+|João Vitor Gonzaga Jota          |Documentação, desenvolvimento, criação dos wireframes utilizando o figma| 
+|Raphael Denner de Oliveira       |Documentação, desenvolviemento, criação dos wireframes utilizando o figma|
+|Yuri Rainer Bedran               |Documentação, desenvolviemnto, adaptação para o github, criação do powerpoint| 
 
 
 
