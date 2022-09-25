@@ -148,22 +148,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+## A Interface em níveis: 
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+| Nome  da Tela                          | Função                      |
+|---------------------------------|-----------------------------|
+|Tela Inicial   |Conter as principais funções da aplicação em um lugar simples e direto| 
+|Tela de Cadastro     |Permitir ao usuário se cadastrar em um ambiente personalizado para usuário-pessoa/usuário-empresa| 
+|Tela de Usuário-Pessoa          |Conter todas as informações do perfil de um usuário, permitindo editar e adicionar informações complementares(redes sociais etc.)| 
+|Tela de Usuário-Empresa |Conter todas as informações de um usuário-empresa, permitindo verificar os produtos listados, suas avaliações e seus preços comparados com a concorrência|
+|Tela de Busca              |Executar a busca do produto solicitado pelo usuário de acordo com os filtros solicitados| 
+
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
