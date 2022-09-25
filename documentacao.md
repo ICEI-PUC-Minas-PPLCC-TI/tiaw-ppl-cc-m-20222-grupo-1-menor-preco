@@ -97,12 +97,13 @@ O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtido
 
 
 
-## Personas e Mapas de Empatia
+## Personas 
 ![](./imagens/persona1.png)
 ![](./imagens/persona2.png)
 ![](./imagens/persona3.png)
-
-
+## Mapas de Empatia
+![](./imagens/ME.png)
+![](./imagens/ME2.png)
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
