@@ -102,7 +102,7 @@ O projeto é uma aplicação web, desenvolvida a partir dos conhecimentos obtido
 ![](./imagens/persona2.png)
 ![](./imagens/persona3.png)
 ## Mapas de Empatia
-![](./imagens/ME.png)
+![](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-grupo-1-menor-preco/blob/master/imagens/ME.png)
 ![](./imagens/ME2.png)
 
 
