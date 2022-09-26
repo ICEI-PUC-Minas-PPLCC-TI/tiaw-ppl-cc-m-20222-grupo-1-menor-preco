@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8497905&assignment_repo_type=AssignmentRepo)
 # Grupo 1 - Menor preço - Trabalho Interdisciplinar - Aplicacões Web
 
-#SPRINT 1
+# SPRINT 1
 Na pasta sprint 1, estão localizados os pdf's de "Proceso de design Thinking" e "Apresentação", a documentação está no master com o nome "documentação.md"
 
 ## Alunos integrantes da equipe
