@@ -1,0 +1,141 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+        <link rel="stylesheet" href="style2.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="carousel.css">
+        <script src="carousel.js"></script>
+        <script src="products.js"></script>
+        <title>CIBUS</title>
+    </head>
+
+    <script> var qtdProd = 0; </script>
+
+    <body>
+        <div id="page-container">
+          <div id="content-wrap">
+            <header>
+              <nav>
+                <a class="logo" href="destaque.html">CIBUS</a>
+                <div class="mobile-menu">
+                  <div class="line1"></div>
+                  <div class="line2"></div>
+                  <div class="line3"></div>
+                </div>
+                <ul class="nav-list">
+                  <li><a href="destaque.html">Início</a></li>
+                  <li><a href="teste.html">Sobre</a></li>
+                  <li><a href="teste.html">Parceiros</a></li>
+                  <li><a href="cadastro-produto.html">Cadastrar</a></li>
+                </ul>
+              </nav>
+              <a href="pesquisa.html"><h1>Produtos em destaque</h1></a>
+            </header>
+
+          </div>
+      
+        <div class="carousel-wrapper">
+            <a id="prev" name="prev" class="button-carousel" onclick="slide(this,qtdProd)" style="color: black;"> < </a>
+            <div class="carousel-principal">
+                <div class="box-principal">
+                    <ul class="item-list" id="list-items">
+                    </ul>
+                </div>
+            </div>
+            <a id="next" name="next" class="button-carousel" onclick="slide(this,qtdProd)" style="color: black;"> > </a>
+        </div>
+
+        <script>
+        
+            function loadLista() {
+    
+              let lista = document.getElementById('list-items');
+
+              let produtos = [];
+
+              fetch("./products.json")
+                .then(res => res.json())
+                .then(data => {
+
+                  produtos = data;
+
+                  console.log(produtos);
+
+                  produtos.forEach(produto => {
+
+                    var descricao = (produto.description.length > 50) ? produto.description.substr(0, 50) + '...' : produto.description;
+
+                    console.log(produto);
+
+                    lista.innerHTML = lista.innerHTML + 
+                      '<li class="item">' +
+                        '<div class="item-box">'+
+                          '<img src="' + produto.filename + '" class="item-image" height="225" width="225"><br>'+
+                          '<h2>' + produto.title + '</h2>'+
+                          '<div class="item-desc">'+
+                            '<article>' + descricao + '</article>'+
+                            '<span> Preço: R$ ' + produto.price + '</span><br>' +
+                            '<span> Avalaiação: ' + produto.rating + '</span>' +
+                            '<button class="item-button">Ver produto</button>'+
+                          '</div>'+
+                        '</div>'+
+                      '</li>';  
+
+                      qtdProd++;
+
+                  })
+
+                });
+    
+            }
+    
+            this.loadLista();
+    
+        </script>
+     
+
+     <footer id="footer">
+       <div class="container-footer">
+         <div class="row-footer">
+           <!-- footer col-->
+           <div class="footer-col">
+             <h4>Empresa</h4>
+             <ul>
+               <li><a href="#"> Quem somos </a></li>
+               <li><a href=""> nossos serviços </a></li>
+               <li><a href=""> política de privacidade </a></li>
+               <li><a href=""> programa de afiliados</a></li>
+             </ul>
+           </div>
+           <!--end footer col-->
+           <!-- footer col-->
+           <div class="footer-col">
+             <h4>Obter ajuda</h4>
+             <ul>
+               <li><a href="#">FAQ</a></li>
+               <li><a href="#">Transporte</a></li>
+               <li><a href="#">devoluções</a></li>
+               <li><a href="#">Status De Pedido</a></li>
+               <li><a href="#">Opções De Pagamento</a></li>
+             </ul>
+           </div>
+           <!--end footer col-->
+           <!-- footer col-->
+           <div class="footer-col">
+             <h4>Loja online</h4>
+             <ul>
+               <li><a href="#">Destaques</a></li>
+               <li><a href="#">Catálogo completo</a></li>
+               <li><a href="#">Cadastre-se</a></li>
+               <li><a href="#">Endereço</a></li>
+             </ul>
+           </div>
+           <!--end footer col-->
+           <!-- footer col-->
+         </div>
+         <!--end footer col-->
+       </div>
+     </footer>
+        </div>
+    </body>
+</html>

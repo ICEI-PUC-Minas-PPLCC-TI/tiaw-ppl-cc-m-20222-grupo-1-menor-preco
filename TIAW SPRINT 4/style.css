@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+
+ h5 {
+    color: #fa8072;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+ }
+ form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ form label {
+    display: flex;
+    flex-direction: column;
+}
+
+ form label span {
+    font-size: 1.1rem;
+    margin-top: 2rem;
+}
+
+ form input {
+    background: #ffffff;
+    width: 300px;
+    height: 50px;
+    padding: 0 0.5rem;
+    margin-top: 1rem;
+    outline: none;
+    color: rgba(166, 166, 166);
+    font-size: 1rem;
+    border: 1px solid #040B18;
+    border-radius: 8px;
+}
+
+ form input[type="submit"] {
+    cursor: pointer;
+    width: 50%;
+    margin-top: 4rem;
+    border: none;
+    border-radius: 32px;
+    background: #fa8072;
+    color: white;
+    font-size: 1.1rem;
+    transition: all .3s ease-in-out;
+}
+
+ form input[type="submit"]:hover {
+    background: #fa8072;
+}
+

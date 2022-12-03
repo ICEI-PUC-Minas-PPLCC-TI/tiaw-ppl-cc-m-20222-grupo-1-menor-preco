@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <link rel="stylesheet" href="style2.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="mobile-navbar.js"></script>
+  <title>CIBUS</title>
+</head>
+
+<body>
+  <div id="page-container">
+    <div id="content-wrap">
+      <header>
+        <nav>
+          <a class="logo" href="destaque.html">CIBUS</a>
+          <div class="mobile-menu">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+          </div>
+          <ul class="nav-list">
+            <li><a href="destaque.html">Início</a></li>
+            <li><a href="teste.html">Sobre</a></li>
+            <li><a href="teste.html">Parceiros</a></li>
+            <li><a href="teste.html">Conta</a></li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+
+    <form action="#" onsubmit="return false">
+      <label for="Nome do produto">
+        <span>Nome do produto</span>
+        <input type="text" id="Nomedoproduto" name="Nome do produto">
+      </label>
+
+      <label for="Conjunto Alimentar">
+        <span>Conjunto Alimentar</span>
+        <input type="text" id="ConjuntoAlimentar" name="Conjunto Alimentar">
+      </label>
+
+      <label for="Valor">
+        <span>Valor</span>
+        <input type="text" id="Valor" name="Valor">
+      </label>
+
+      <label class="picture" for="picture__input" tabIndex="0">
+        <span class="picture__image"></span>
+      </label>
+
+      <input type="file" name="picture__input" id="picture__input">
+
+      <label for="Empresa">
+        <span>Empresa</span>
+        <input type="Empresa" id="Empresa" name="Empresa">
+      </label>
+
+      <label for="Contato">
+        <span>Contato</span>
+        <input type="Contato" id="Contato" name="Contato">
+      </label>
+
+      <label for="E-mail">
+        <span>E-mail</span>
+        <input type="E-mail" id="email" name="E-mail">
+      </label>
+
+      <label for="CEP">
+        <span>CEP</span>
+        <input type="CEP" id="CEP" name="CEP">
+      </label>
+
+      <label for="Número">
+        <span>Número</span>
+        <input type="Número" id="Numero" name="Número">
+      </label>
+
+      <input type="submit" value="Ok" id="iudi">
+    </form>
+
+    <footer id="footer">
+      <div class="container-footer">
+        <div class="row-footer">
+          <!-- footer col-->
+          <div class="footer-col">
+            <h4>Empresa</h4>
+            <ul>
+              <li><a href="#"> Quem somos </a></li>
+              <li><a href=""> nossos serviços </a></li>
+              <li><a href=""> política de privacidade </a></li>
+              <li><a href=""> programa de afiliados</a></li>
+            </ul>
+          </div>
+          <!--end footer col-->
+          <!-- footer col-->
+          <div class="footer-col">
+            <h4>Obter ajuda</h4>
+            <ul>
+              <li><a href="#">FAQ</a></li>
+              <li><a href="#">Transporte</a></li>
+              <li><a href="#">devoluções</a></li>
+              <li><a href="#">Status De Pedido</a></li>
+              <li><a href="#">Opções De Pagamento</a></li>
+            </ul>
+          </div>
+          <!--end footer col-->
+          <!-- footer col-->
+          <div class="footer-col">
+            <h4>Loja online</h4>
+            <ul>
+              <li><a href="#">Destaques</a></li>
+              <li><a href="#">Catálogo completo</a></li>
+              <li><a href="#">Cadastre-se</a></li>
+              <li><a href="#">Endereço</a></li>
+            </ul>
+          </div>
+          <!--end footer col-->
+          <!-- footer col-->
+        </div>
+        <!--end footer col-->
+      </div>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+<script>
+
+  const inputFile = document.querySelector("#picture__input");
+  const pictureImage = document.querySelector(".picture__image");
+  const pictureImageTxt = "Choose an image";
+  pictureImage.innerHTML = pictureImageTxt;
+
+  inputFile.addEventListener("change", function (e) {
+    const inputTarget = e.target;
+    const file = inputTarget.files[0];
+
+    if (file) {
+      const reader = new FileReader();
+
+      reader.addEventListener("load", function (e) {
+        const readerTarget = e.target;
+
+        const img = document.createElement("img");
+        img.src = readerTarget.result;
+        img.classList.add("picture__img");
+
+        pictureImage.innerHTML = "";
+        pictureImage.appendChild(img);
+      });
+
+      reader.readAsDataURL(file);
+    } else {
+      pictureImage.innerHTML = pictureImageTxt;
+    }
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+</html>

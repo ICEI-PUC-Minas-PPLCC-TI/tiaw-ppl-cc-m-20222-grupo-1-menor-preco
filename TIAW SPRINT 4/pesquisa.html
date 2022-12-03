@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="searchscript2.js" defer></script>
+  <script src="mobile-navbar.js"></script>
+  <title>CIBUS</title>
+</head>
+
+<body>
+  <div id="page-container">
+    <div id="content-wrap">
+      <header>
+        <nav>
+          <a class="logo" href="destaque.html">CIBUS</a>
+          <div class="mobile-menu">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+          </div>
+          <ul class="nav-list">
+            <li><a href="destaque.html">Início</a></li>
+            <li><a href="teste.html">Sobre</a></li>
+            <li><a href="teste.html">Parceiros</a></li>
+            <li><a href="cadastro-produto.html">Cadastrar</a></li>
+          </ul>
+        </nav>
+      </header>
+      <h1><a href="filtro.html">Filtrar!</a></h1>
+
+      <div class="box">
+        <form name="search">
+          <input type="text" class="input" id="search" data-search name="txt" placeholder="Digite o nome do produto"
+            onmouseout="this.value = ''; this.blur();">
+            
+        </form>
+        <i class="fas fa-search"></i>
+
+
+
+      </div>
+      
+
+      <div class="container">
+        <div class="cards" data-user-cards-container></div>
+        <template data-user-template>
+          <div class="card">
+
+            <div class="header" data-header></div>
+            <div class="body" data-body></div>
+            <div class="price" data-price></div>
+
+            <img src="" id="imgtag" data-image />
+            <div class="link"> <a href="teste.html">->Ver mais!</a></div>
+          </div>
+
+        </template>
+      </div>
+    </div>
+    <footer id="footer">
+      <div class="container-footer">
+        <div class="row-footer">
+          <!-- footer col-->
+          <div class="footer-col">
+            <h4>Empresa</h4>
+            <ul>
+              <li><a href="#"> Quem somos </a></li>
+              <li><a href=""> nossos serviços </a></li>
+              <li><a href=""> política de privacidade </a></li>
+              <li><a href=""> programa de afiliados</a></li>
+            </ul>
+          </div>
+          <!--end footer col-->
+          <!-- footer col-->
+          <div class="footer-col">
+            <h4>Obter ajuda</h4>
+            <ul>
+              <li><a href="teste.html">FAQ</a></li>
+              <li><a href="teste.html">Transporte</a></li>
+              <li><a href="teste.html">devoluções</a></li>
+              <li><a href="teste.html">Status De Pedido</a></li>
+              <li><a href="teste.html">Opções De Pagamento</a></li>
+            </ul>
+          </div>
+          <!--end footer col-->
+          <!-- footer col-->
+          <div class="footer-col">
+            <h4>Loja online</h4>
+            <ul>
+              <li><a href="teste.html">Destaques</a></li>
+              <li><a href="teste.html">Catálogo completo</a></li>
+              <li><a href="teste.html">Cadastre-se</a></li>
+              <li><a href="teste.html">Endereço</a></li>
+            </ul>
+          </div>
+          <!--end footer col-->
+          <!-- footer col-->
+          <div class="footer-col">
+            <h4>Inscreva-se para novidades!</h4>
+            <div class="form-sub">
+              <form>
+                <input type="email" placeholder="Digite o seu e-mail" required>
+                <button>inscrever-se</button>
+              </form>
+            </div>
+
+            <div class="medias-socias">
+              <a href="#"> <i class="fa fa-facebook"></i> </a>
+              <a href="https://www.instagram.com/ohenrique.moura/"> <i class="fa fa-instagram"></i> </a>
+              <a href="https://twitter.com/ohenriquemoura"> <i class="fa fa-twitter"></i> </a>
+              <a href="https://www.linkedin.com/in/henrique-moura-7362a520b/"> <i class="fa fa-linkedin"></i> </a>
+              <a href="https://github.com/ohenriquemoura"> <i class="fa fa-github"></i> </a>
+              <a href="https://replit.com/@HenriqueMoura3/js-search-bar-2#index.html"> <i class="fa fa-solid fa-r"></i> </a>
+            </div>
+
+          </div>
+          <!--end footer col-->
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+
+</html>
