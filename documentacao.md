@@ -201,7 +201,7 @@ Com um maior entendimento do eixo temático do projeto foi desenvolvido um esbo�
 Na segunda e na terceira parte do projeto, o grupo foi orientado a se dividir e cada um foi responsável por desenvolver 2 funcionalidades para o projeto. As entregas foram em outubro e novembro respectivamente. Nesse momento do projeto foi possível observar o que funcionaria e o que não funcionaria, algumas ideias foram descartadas, outras modificadas, porém todas as funcionalidades funcionaram individualmente. 
 
 
-## Divisão de Papéis (Sprint2 e 3)
+## Divisão de Papéis (Sprint 2 e 3)
 
 | Nome                            | Função                      |
 |---------------------------------|-----------------------------|
@@ -213,7 +213,7 @@ Na segunda e na terceira parte do projeto, o grupo foi orientado a se dividir e 
 
 ##Sprint 4
 
-Na parte final do projeto, a tarefa foi combinar as ferramentas individuais, as telas de destaque e menor preço foram combinadas a fim de melhorar a experiência do usuário. As outras telas foram integradas, porém foi necessário padronizar os elementos gráficos e deixer o código mais organizado.
+Na parte final do projeto, a tarefa foi combinar as ferramentas individuais, as telas de destaque e menor preço foram combinadas a fim de melhorar a experiência do usuário. As outras telas foram integradas, porém foi necessário padronizar os elementos gráficos e deixer o código mais organizado. Como um membro do grupo, saiu do projeto, a tela individual de usuário, apresentada nos wireframes da ideia original, não foi desenvolvida.
 
 ## Divisão de Papéis (Sprint 4)
 
