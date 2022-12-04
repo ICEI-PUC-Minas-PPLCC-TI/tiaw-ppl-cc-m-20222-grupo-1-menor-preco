@@ -285,18 +285,6 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 
  O HTML é o componente básico da web, ele permite inserir o conteúdo e estabelecer a estrutura básica de um website. 
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 
 > Como proposto pelo trabalho nossas tecnologias usadas foram: HTML (HyperText Markup Language), Css, JavaScript, Json, Visual studio code, replit, Miro, Figma, GitHub e API para mapas
@@ -319,11 +307,7 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Para testar a aplicação foram realizados testes, envolvendo todas as funcionalidades
 ## Plano de Testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -337,15 +321,7 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 ## Registros de Testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
