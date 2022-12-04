@@ -205,13 +205,25 @@ Na segunda e na terceira parte do projeto, o grupo foi orientado a se dividir e 
 
 | Nome                            | Função                      |
 |---------------------------------|-----------------------------|
-|Gustavo Pessoa Firmino Duarte    |Mapa| 
+|Gustavo Pessoa Firmino Duarte    |Mapa, Lista de Desejos| 
 |Henrique Moura de Sousa Belo     |Pesquisa e Filtro| 
-|João Vitor Gonzaga Jota          |Tela de início| 
-|Raphael Denner de Oliveira       |Documentação, desenvolviemento, criação dos wireframes utilizando o figma|
+|João Vitor Gonzaga Jota          |Tela de início, Tela de menor Preço| 
+|Raphael Denner de Oliveira       |Tela de Contato, Cadastro de Empresas|
 |Yuri Rainer Bedran               |Cadastro de usuários, tela individual de produtos| 
 
+##Sprint 4
 
+Na parte final do projeto, a tarefa foi combinar as ferramentas individuais, as telas de destaque e menor preço foram combinadas a fim de melhorar a experiência do usuário. As outras telas foram integradas, porém foi necessário padronizar os elementos gráficos e deixer o código mais organizado.
+
+## Divisão de Papéis (Sprint 4)
+
+| Nome                            | Função                      |
+|---------------------------------|-----------------------------|
+|Gustavo Pessoa Firmino Duarte    |Documentação, Código| 
+|Henrique Moura de Sousa Belo     |Documentação, Código, Vídeo| 
+|João Vitor Gonzaga Jota          |Documentação, Código| 
+|Raphael Denner de Oliveira       |Documentação, Código|
+|Yuri Rainer Bedran               |Documentação, Código| 
 
 ## Ferramentas
 
