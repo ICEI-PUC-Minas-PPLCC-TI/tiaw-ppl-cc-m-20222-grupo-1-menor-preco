@@ -10,7 +10,7 @@ searchInput.addEventListener("input", e => {
   const value = e.target.value.toLowerCase()
   products.forEach(products => {
     const isVisible =
-      products.title.toLowerCase().includes(value) 
+      products.title.toLowerCase().includes(value)
 
     products.element.classList.toggle("hide", !isVisible)
   })
@@ -18,7 +18,7 @@ searchInput.addEventListener("input", e => {
 
 
 fetch("./products.json")
-  
+
   .then(res => res.json())
   .then(data => {
     products = data.map(products => {
@@ -26,26 +26,27 @@ fetch("./products.json")
       const header = card.querySelector("[data-header]")
       const body = card.querySelector("[data-body]")
       const price = card.querySelector("[data-price]")
-      
+
       const imgtag = card.querySelector("[data-image]");
       console.log(imgtag)
-      
-      
-    
 
-    
-      
+
+
+
+
+
       imgtag.src = products.filename
-      
+
       header.textContent = products.title
       body.textContent = products.type
       price.textContent = products.price
-      
-      
-      
+
+
+
 
       userCardContainer.append(card)
-      return { title: products.title, type: products.type, price: products.price, element: card ,imgtag:products.filename
+      return {
+        title: products.title, type: products.type, price: products.price, element: card, imgtag: products.filename
       }
     })
   })
