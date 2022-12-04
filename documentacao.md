@@ -80,6 +80,28 @@ Permitir a navegação de um mapa a fim de conhecer a distância do usuário at�
 
 ## Justificativa
 Atualmente o Brasil se encontra em um período de crise, por isso, economizar em todos os aspectos possíveis é essencial, nosso site vem para solucionar este problema, sendo que ajuda os usuários a encontrar estabelecimentos por perto comparando o preço dos produtos e ao mesmo tempo ajuda o comércio local evitando o  desperdício, prejuízo e fechamento dos mesmos como aconteceu durante a pandemia, mostra também qual estabelecimento se encontra mais perto, fazendo com que os estabelecimentos ganhem uma clientela local.
+ALGUMAS PESQUISAS 
+
+O consumidor brasileiro para compras online consome por vários motivos. Mas tenha em mente que devido a atual pandemia de coronavírus, a forma de fazer compras online também teve algumas alterações significativas.
+Assim sendo, veja alguns dos principais fatores que influenciam de forma direta nas decisões de compra do consumidor brasileiro. Além disso, conheça tendências do e-commerce de forma global, de acordo com o relatório do Think With Google.
+
+Principais motivações do consumidor brasileiro
+A partir de um mapeamento do comportamento dos consumidores brasileiros que compram online, a pesquisa da Google conseguiu estabelecer alguns motivos principais. Entre elas as que mais se destacam, em ordem de importância são:
+    • Os preços;
+    • A entrega grátis de mercadorias;
+    • Os descontos nas compras;
+    • A realização de pagamentos com o cartão de crédito;
+    •  A garantia do produto e a confiança do comprador;
+    •  Dados técnicos de cada produto;
+    • A comparação do preço do produto em diferentes lojas;
+    •  As avaliações positivas dadas por usuários para o produto;
+    • A opinião sobre a loja que oferta o produto;
+    • As devoluções simples;
+    • A disponibilidade do produto.
+Além desses dados, a pesquisa mostrou que os consumidores brasileiros de compras online valorizam muito mais os reviews dos produtos em comparação aos compradores estrangeiros. Assim eles tendem a escolher mercadorias que se adéquem a opiniões positivas.
+
+Como desenvolvedores prezamos favorecer ao máximo o nosso público e estaremos tentando o nosso melhor para prover uma ótima experiencia ao usuário.
+
 
 ## Público-Alvo
 Para o público alvo deste projeto, existem dois tipos de público a serem alcançados através da plataforma, o consumidor e o vendedor. O consumidor é a pessoa que deseja encontrar produtos dentro de seu bairro ou cidade sem sair de casa e comparar preços a fim de ter mais comodidade e conforto na hora da compra ou orçamento. Já o vendedor é o dono de loja ou representante de empresa que deseja disponibilizar suas mercadorias na plataforma para alcançar um número maior de clientes dentro de um raio de alcance de uma de suas instalações de lojas.
