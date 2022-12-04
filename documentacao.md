@@ -89,7 +89,7 @@ Assim sendo, veja alguns dos principais fatores que influenciam de forma direta 
 Principais motivações do consumidor brasileiro
 A partir de um mapeamento do comportamento dos consumidores brasileiros que compram online, a pesquisa da Google conseguiu estabelecer alguns motivos principais. Entre elas as que mais se destacam, em ordem de importância são:
     
-    * 
+    
     
     * Os preços;
     * A entrega grátis de mercadorias;
