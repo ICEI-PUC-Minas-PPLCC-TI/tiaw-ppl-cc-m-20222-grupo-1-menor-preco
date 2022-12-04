@@ -709,11 +709,11 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 > nas imagens.
 
 
-Como proposto pelo trabalho nossas tecnologias usadas foram: HTML (HyperText Markup Language), Css, JavaScript, Json, Visual studio code, replit, Miro, Figma, GitHub e API para mapas
+> Como proposto pelo trabalho nossas tecnologias usadas foram: HTML (HyperText Markup Language), Css, JavaScript, Json, Visual studio code, replit, Miro, Figma, GitHub e API para mapas
 
-HTML (HyperText Markup Language), Css, JavaScript, Json e a API foram usados para montagem do site.
-Visual studio code e replit foram usados para a compilação dos códigos.
-Miro, Figma e GitHub foram usados para o desenvolvimento criativo e para upload de códigos.
+> HTML (HyperText Markup Language), Css, JavaScript, Json e a API foram usados para montagem do site.
+> Visual studio code e replit foram usados para a compilação dos códigos.
+> Miro, Figma e GitHub foram usados para o desenvolvimento criativo e para upload de códigos.
 
 
 ## Arquitetura da solução
