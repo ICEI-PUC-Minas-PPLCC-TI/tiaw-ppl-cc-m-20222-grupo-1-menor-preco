@@ -281,7 +281,12 @@ Foram criadas as seguintes telas:
 > Tela de Pesquisa e tela de Filtro- Telas que pesquisam o catálogo completo(Todos os Produtos, com todos os locais e todos os preços), a tela de pesquisa funciona com input de texto, que por meio da função addeventlistener() do javascript busca o JSON por um nome contendo os caracteres inputados.A tela de filtro funciona de forma similar porém busca pelo tipo do produto e também foi desenvolvido um slider de preços que funciona de forma responsiva.
 ![Tela de Pesquisa](./imagens/search.png)
 ![Tela de Filtro](./imagens/filter.png)
-
+>Tela de Empresas- Tela que exibe as empresas cadastradas no JSON
+![Tela de Pesquisa](./imagens/empresas.png)
+>Tela de Cadastro- Tela que cadastra novos produtos
+![Tela de Cadastro](./imagens/cadastro.png)
+>Tela de Lista de Desejos- Tela que apresenta a lista de desejos do usuário
+![Tela de Lista de Desejos](./imagens/lista.png)
 ## Tecnologias Utilizadas
 
 Para implementar a solução do projeto, foram utilizadas as linguagens HTML (HyperText Markup Language) que é o componente básico da web, assim, ele permite inserir o conteúdo e  , CSS e JavaScript.
