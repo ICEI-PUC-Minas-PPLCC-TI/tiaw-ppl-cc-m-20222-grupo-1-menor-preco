@@ -280,7 +280,7 @@ Foram criadas as seguintes telas:
 ![Tela Inicial](./imagens/home.png)
 > Tela de Pesquisa e tela de Filtro- Telas que pesquisam o catálogo completo(Todos os Produtos, com todos os locais e todos os preços), a tela de pesquisa funciona com input de texto, que por meio da função addeventlistener() do javascript busca o JSON por um nome contendo os caracteres inputados.A tela de filtro funciona de forma similar porém busca pelo tipo do produto e também foi desenvolvido um slider de preços que funciona de forma responsiva.
 ![Tela de Pesquisa](./imagens/search.png)
-![Tela de Filtro](./imagens/Filtro.png)
+![Tela de Filtro](./imagens/filter.png)
 
 ## Tecnologias Utilizadas
 
@@ -301,7 +301,7 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 
 
  
-> ![Arquitetura](images/diagrama.png)
+> ![Arquitetura](./imagens/diagrama.png)
 
 # Avaliação da Aplicação
 
