@@ -326,13 +326,12 @@ Para testar a aplicação foram realizados testes, envolvendo todas as funcional
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
 ## Registros de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+> ![Teste](./imagens/teste1.jpeg)
+> ![Teste](./imagens/teste2.jpg)
+> ![Teste](./imagens/teste3.jpg)
+> ![Teste](./imagens/teste4.png)
+> ![Teste](./imagens/teste5.png)
+> ![Teste](./imagens/teste6.jpg)
 
 # Referências
 
