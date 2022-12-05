@@ -47,7 +47,7 @@
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
+
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -237,7 +237,7 @@ Na segunda e na terceira parte do projeto, o grupo foi orientado a se dividir e 
 |Raphael Denner de Oliveira       |Tela de Contato, Cadastro de Empresas|
 |Yuri Rainer Bedran               |Cadastro de usuários, tela individual de produtos| 
 
-##Sprint 4
+## Sprint 4
 
 Na parte final do projeto, a tarefa foi combinar as ferramentas individuais, as telas de destaque e menor preço foram combinadas a fim de melhorar a experiência do usuário. As outras telas foram integradas, porém foi necessário padronizar os elementos gráficos e deixer o código mais organizado. Como um membro do grupo, saiu do projeto, a tela individual de usuário, apresentada nos wireframes da ideia original, não foi desenvolvida.
 
@@ -272,12 +272,15 @@ O [Git](https://git-scm.com/) foi a ferramenta de controle de versão escolhido.
 
 > - `dev`: versão de desenvolvimento do software
 
-# **############## SPRINT 1 ACABA AQUI #############**
 
 
 # Projeto da Solução
-
-Nesta seção são apresentados os detalhes técnicos da solução criada pelo grupo, tratando da arquitetura da aoluçãoas, as estruturas de dados e as telas já implementadas.
+Foram criadas as seguintes telas:
+> Tela Inicial/destaque- Homepage da aplicação, contém todas as funcionalidades. Foi incluído vários elementos gráficos como: diversas animações de Hover e um carrossel, que é interligad ao Json.
+![Tela Inicial](./imagens/home.png)
+> Tela de Pesquisa e tela de Filtro- Telas que pesquisam o catálogo completo(Todos os Produtos, com todos os locais e todos os preços), a tela de pesquisa funciona com input de texto, que por meio da função addeventlistener() do javascript busca o JSON por um nome contendo os caracteres inputados.A tela de filtro funciona de forma similar porém busca pelo tipo do produto e também foi desenvolvido um slider de preços que funciona de forma responsiva.
+![Tela de Pesquisa](./imagens/search.png)
+![Tela de Filtro](./imagens/Filtro.png)
 
 ## Tecnologias Utilizadas
 
@@ -296,14 +299,9 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+ 
+> ![Arquitetura](images/diagrama.png)
 
 # Avaliação da Aplicação
 
