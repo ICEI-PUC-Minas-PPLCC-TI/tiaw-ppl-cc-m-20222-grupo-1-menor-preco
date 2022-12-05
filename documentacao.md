@@ -301,7 +301,7 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 
 
  
-> ![Arquitetura](./imagens/diagrama.png)
+> ![Arquitetura](./imagens/diagrama2.png)
 
 # Avaliação da Aplicação
 
