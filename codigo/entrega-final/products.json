@@ -1,0 +1,246 @@
+[{
+"title": "Morango",
+    "type": "Frutas",
+    "description": "Supermercado Verdemar",
+    "filename": "images/1.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 13.00,
+    "rating": 4
+  }, {
+    "title": "Morango",
+    "type": "Frutas",
+    "description": "Supernosso",
+    "filename": "images/1.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 29.45,
+    "rating": 4
+  }, {
+    "title": "Morango",
+    "type": "Frutas",
+    "description": "Supermercados BH",
+    "filename": "images/1.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 21.43,
+    "rating": 4
+  }, {
+    "title": "Leite",
+    "type": "Laticínios",
+    "description": "Supernosso",
+    "filename": "images/milk.png",
+    "height": 600,
+    "width": 399,
+    "price": 10.00,
+    "rating": 4
+  }, {
+    "title": "Leite",
+    "type": "Laticínios",
+    "description": "Supermercado Verdemar",
+    "filename": "images/milk.png",
+    "height": 600,
+    "width": 399,
+    "price": 17.68,
+    "rating": 4
+  }, {
+    "title": "Leite",
+    "type": "Laticínios",
+    "description": "Fellipeto",
+    "filename": "images/milk.png",
+    "height": 600,
+    "width": 399,
+    "price": 12.68,
+    "rating": 4
+  }, {
+    "title": "Massa de macarrão",
+    "type": "Vegetais",
+    "description": "Padaria Trigopane",
+    "filename": "images/massa.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 15.00,
+    "rating": 2
+  }, {
+    "title": "Massa de macarrão",
+    "type": "Vegetais",
+    "description": "Supermercado Alladin",
+    "filename": "images/massa.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 18.19,
+    "rating": 2
+  }, {
+    "title": "Massa de macarrão",
+    "type": "Vegetais",
+    "description": "Padaria Dupão",
+    "filename": "images/massa.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 17.19,
+    "rating": 2
+  }, {
+    "title": "Feijão",
+    "type": "Vegetais",
+    "description": "Supermercado Verdemar",
+    "filename": "images/14.jpg",
+    "height": 450,
+    "width": 300,
+    "price": 20.00,
+    "rating": 1
+  }, {
+    "title": "Feijão",
+    "type": "Vegetais",
+    "description": "Padaria Vovo Nita",
+    "filename": "images/14.jpg",
+    "height": 450,
+    "width": 300,
+    "price": 28.79,
+    "rating": 1
+  }, {
+    "title": "Feijão",
+    "type": "Vegetais",
+    "description": "Supermercados BH",
+    "filename": "images/14.jpg",
+    "height": 450,
+    "width": 300,
+    "price": 23.79,
+    "rating": 1
+}, {
+  "title": "Arroz",
+  "type": "Vegetais",
+  "description": "Supermercado Carrefour",
+  "filename": "images/12.jpg",
+  "height": 600,
+  "width": 903,
+  "price": 27.00,
+  "rating": 2
+}, {
+  "title": "Arroz",
+  "type": "Vegetais",
+  "description": "Fellipeto",
+  "filename": "images/12.jpg",
+  "height": 600,
+  "width": 903,
+  "price": 30.3,
+  "rating": 2
+}, {
+  "title": "Arroz",
+  "type": "Vegetais",
+  "description": "Supermercado Alladin",
+  "filename": "images/12.jpg",
+  "height": 600,
+  "width": 903,
+  "price": 29.3,
+  "rating": 2
+}, {
+  "title": "Pão Francês",
+  "type": "bakery",
+  "description": "Padaria do Seu Jorge",
+  "filename": "images/15.png",
+  "height": 600,
+  "width": 400,
+  "price": 10.00,
+  "rating": 1
+}, {
+  "title": "Pão Francês",
+  "type": "bakery",
+  "description": "Padaria Dupão",
+  "filename": "images/15.png",
+  "height": 600,
+  "width": 400,
+  "price": 12.00,
+  "rating": 1
+}, {
+  "title": "Pão Francês",
+  "type": "bakery",
+  "description": "Padaria Trigopane",
+  "filename": "images/15.png",
+  "height": 600,
+  "width": 400,
+  "price": 11.50,
+  "rating": 1
+}, {
+  "title": "Heineken ",
+  "type": "Bebidas",
+  "description": "Distribuidora ABC",
+  "filename": "images/18.jpg",
+  "height": 600,
+  "width": 398,
+  "price": 5.00,
+  "rating": 5
+}, {
+  "title": "Heineken ",
+  "type": "Bebidas",
+  "description": "Supermercado Alladin",
+  "filename": "images/18.jpg",
+  "height": 600,
+  "width": 398,
+  "price": 7.00,
+  "rating": 5
+}, {
+  "title": "Heineken ",
+  "type": "Bebidas",
+  "description": "Supermercado Verdemar",
+  "filename": "images/18.jpg",
+  "height": 600,
+  "width": 398,
+  "price": 8.00,
+  "rating": 5
+}, {
+  "title": "Heineken ",
+  "type": "Bebidas",
+  "description": "Supermercados BH",
+  "filename": "images/18.jpg",
+  "height": 600,
+  "width": 398,
+  "price": 6.50,
+  "rating": 5
+}, {
+  "title": "Heineken ",
+  "type": "Bebidas",
+  "description": "Padaria Trigopane",
+  "filename": "images/18.jpg",
+  "height": 600,
+  "width": 398,
+  "price": 10.00,
+  "rating": 5
+}, {
+  "title": "Açaí 2 litros",
+  "type": "Frutas",
+  "description": "Supermercado Verdemar",
+  "filename": "images/23.jpg",
+  "height": 450,
+  "width": 299,
+  "price": 32.50,
+  "rating": 2
+}, {
+  "title": "Açaí 2 litros",
+  "type": "Frutas",
+  "description": "Supermercado Carrefour",
+  "filename": "images/23.jpg",
+  "height": 450,
+  "width": 299,
+  "price": 42.50,
+  "rating": 2
+}, {
+  "title": "Açaí 2 litros",
+  "type": "Frutas",
+  "description": "Supermercado Alladin",
+  "filename": "images/23.jpg",
+  "height": 450,
+  "width": 299,
+  "price": 37.50,
+  "rating": 2
+}, {
+  "title": "Açaí 2 litros",
+  "type": "Frutas",
+  "description": "Supermercados BH",
+  "filename": "images/23.jpg",
+  "height": 450,
+  "width": 299,
+  "price": 52.50,
+  "rating": 2
+} 
+  
+]
