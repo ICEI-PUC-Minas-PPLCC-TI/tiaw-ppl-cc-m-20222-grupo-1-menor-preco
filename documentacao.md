@@ -332,6 +332,9 @@ Para testar a aplicação foram realizados testes, envolvendo todas as funcional
 > ![Teste](./imagens/teste4.png)
 > ![Teste](./imagens/teste5.png)
 > ![Teste](./imagens/teste6.jpg)
+> ![Teste](./imagens/teste7.png)
+> ![Teste](./imagens/teste8.png)
+> ![Teste](./imagens/teste.png)
 
 # Referências
 
