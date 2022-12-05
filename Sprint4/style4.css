@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #fa8072;
+}
+.capa{
+  width: 100%;
+  max-width: 600px;
+  background: #fefcfb;
+  padding: 20px;
+  box-shadow: 0 4px 4px rgba(0,0,0,0.4);
+  border-radius: 20px;
+  overflow: hidden;
+}
+.capa .content .expand .logo{
+  width: 100px;
+  height: 100px;
+}
+.capa .content .expand .logo img{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.capa .content .icon span{
+  font-size: 23px;
+}
+.capa .content .icon{
+  cursor: pointer;
+}
+.capa .content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.capa .other .image{
+  width: 300px;
+  height: 300px;
+  margin-bottom: 70px;
+  user-select: none;
+  pointer-events: none;
+  
+}
+.capa .other .image img{
+  width: 136%;
+  height: 100%;
+  object-fit: contain;
+  position: inherit;
+  bottom: 80px;
+  
+}
+.capa .other .header{
+  font-weight: 500;
+  font-size: 24px;
+  color: #161616;
+}
+.capa .other p{
+  font-size: 12px;
+  text-align: justify;
+  color: #333;
+  font-weight: 400;
+}
+.capa .other .rating{
+  margin-top: 5px;
+}
+.capa .other .rating span{
+  color: #fbff00;
+}
+.capa .other .tab{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.capa .other .tab .preço_tab span{
+  font-size: 25px;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 2px;
+}
+.capa .other .tab .preço_tab{
+  text-align: center;
+}
+.capa .other .tab .preço_tab .end-price{
+  font-size: 18px;
+  color: #ff0000;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.capa .other .button{
+  width: 100%;
+  padding: 8px;
+  background: #fa8072;
+  margin-top: 30px;
+  text-align: center;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.97, -0.21, 1, 1);
+}
+.capa .other .button:hover{
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #000000;
+}
+.capa .other .button a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+/*  */
+.capa .other .image #img-black.hide{
+  opacity: 0;
+}
+
+
+
+ 
