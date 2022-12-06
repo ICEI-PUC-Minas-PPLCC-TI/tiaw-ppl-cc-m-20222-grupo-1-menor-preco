@@ -1,5 +1,6 @@
 # Código do Projeto
 
-Mantenha neste diretório todo o código fonte do projeto. 
+Código hospedado no Github pages:https://ohenriquemoura.github.io/entrega-final/TIAW%20SPRINT%204/index.html
+e no Replit:https://replit.com/join/zhutuuivot-yuribedran
 
-Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+Permita a localização para ver o mapa!
