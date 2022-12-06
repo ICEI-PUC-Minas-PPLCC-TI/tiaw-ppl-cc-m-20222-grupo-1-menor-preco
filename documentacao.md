@@ -329,11 +329,11 @@ Para testar a aplicação foram realizados testes, envolvendo todas as funcional
 > ![Teste](./imagens/teste.png)
 
 
-#Referências
+# Referências
 
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
 > -  [Awesome searchbar](https://www.youtube.com/watch?v=v1PeTDrw6OY)
 > - [Descubra as tendências do consumidor Brasileiro](https://www.tezus.com.br/blog/descubra-o-que-influencia-o-consumidor-brasileiro-em-compras-online/#:~:text=Al%C3%A9m%20desses%20dados%2C%20a%20pesquisa,se%20adequem%20a%20opini%C3%B5es%20positivas.)
-> -[Input file](https://www.youtube.com/watch?v=gXXmQeZOHKY&t=744s)
->-[Página de Cadastro](https://www.youtube.com/watch?v=Q68vbJplf7I&t=449s)
+> - [Input file](https://www.youtube.com/watch?v=gXXmQeZOHKY&t=744s)
+>-  [Página de Cadastro](https://www.youtube.com/watch?v=Q68vbJplf7I&t=449s)
