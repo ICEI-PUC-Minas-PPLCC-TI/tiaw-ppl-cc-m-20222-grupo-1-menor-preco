@@ -287,6 +287,8 @@ Foram criadas as seguintes telas:
 ![Tela de Cadastro](./imagens/cadastro.png)
 >Tela de Lista de Desejos- Tela que apresenta a lista de desejos do usuário
 ![Tela de Lista de Desejos](./imagens/lista.png)
+>Mapa - Foi posteriormente integrada a tela de empresas, funciona por meio da API do Google e detecta a localização da pessoa e traça o caminho para as empresas escolhidas
+>![Tela de Mapa](./imagens/mapa.png)
 ## Tecnologias Utilizadas
 
 Para implementar a solução do projeto, foram utilizadas as linguagens HTML (HyperText Markup Language) que é o componente básico da web, assim, ele permite inserir o conteúdo e  , CSS e JavaScript.
@@ -311,19 +313,9 @@ Para implementar a solução do projeto, foram utilizadas as linguagens HTML (Hy
 # Avaliação da Aplicação
 
 Para testar a aplicação foram realizados testes, envolvendo todas as funcionalidades
-## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+
 
 ## Registros de Testes
 > ![Teste](./imagens/teste1.jpeg)
@@ -337,8 +329,11 @@ Para testar a aplicação foram realizados testes, envolvendo todas as funcional
 > ![Teste](./imagens/teste.png)
 
 
+#Referências
 
-> **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
+> -  [Awesome searchbar](https://www.youtube.com/watch?v=v1PeTDrw6OY)
+> - [Descubra as tendências do consumidor Brasileiro](https://www.tezus.com.br/blog/descubra-o-que-influencia-o-consumidor-brasileiro-em-compras-online/#:~:text=Al%C3%A9m%20desses%20dados%2C%20a%20pesquisa,se%20adequem%20a%20opini%C3%B5es%20positivas.)
+> -[Input file](https://www.youtube.com/watch?v=gXXmQeZOHKY&t=744s)
+>-[Página de Cadastro](https://www.youtube.com/watch?v=Q68vbJplf7I&t=449s)
